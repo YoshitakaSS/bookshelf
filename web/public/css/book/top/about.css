@@ -1,0 +1,61 @@
+/*
+	メインコンテンツ
+*/
+.main-wrapper-viewport {
+    position: relative; }
+    .main-wrapper-viewport .lay-txt {
+      padding-top: 20px;
+      padding-bottom: 20px;
+      color: #757677;
+      line-height: 2.1;
+      letter-spacing: .3px;
+      word-break: break-all; }
+    .main-wrapper-viewport .row {
+      display: flex;
+      flex-wrap: wrap;
+      margin-bottom: 20px; }
+      .main-wrapper-viewport .row .col-title {
+        font-size: 22px;
+        font-weight: 900;
+        letter-spacing: 1.6px; }
+    .main-wrapper-viewport .icon {
+      margin-right: 4px; }
+    .main-wrapper-viewport .btn {
+      cursor: pointer; }
+    .main-wrapper-viewport .wrap-section {
+      text-align: center; }
+      .main-wrapper-viewport .wrap-section .section-head-title {
+        padding-top: 30px;
+        margin: 20px 15px;
+        color: #545353;
+        font-size: 28px;
+        font-weight: 900;
+        line-height: 1.5;
+        letter-spacing: 1.5px; }
+      .main-wrapper-viewport .wrap-section .section-icon {
+        margin-bottom: 15px;
+        color: #1c91c7;
+        font-size: 35px; }
+      .main-wrapper-viewport .wrap-section .section-catchecopy {
+        padding: 15px 150px;
+        color: #7F878C;
+        font-size: 18px;
+        letter-spacing: 3px;
+        line-height: 1.5; }
+        @media screen and (max-width: 480px) {
+          .main-wrapper-viewport .wrap-section .section-catchecopy {
+            padding: 15px 25px; } }
+      .main-wrapper-viewport .wrap-section .complement {
+        font-size: 14px; }
+    .main-wrapper-viewport .top-view-wrap {
+      margin: 20px auto; }
+      .main-wrapper-viewport .top-view-wrap .top-view-btn {
+        display: block;
+        width: 220px;
+        margin-right: auto;
+        margin-left: auto;
+        padding: 15px;
+        color: #F9FBFE;
+        border: 1px solid #e9f6dc;
+        background-color: #18a786;
+        text-align: center; }

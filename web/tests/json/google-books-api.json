@@ -1,0 +1,770 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 1536,
+    "items": [
+        {
+            "kind": "books#volume",
+            "id": "h-VUXwAACAAJ",
+            "etag": "BnVDzn3nZUM",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/h-VUXwAACAAJ",
+            "volumeInfo": {
+                "title": "ホリエモンのとりあえず最後の言葉",
+                "authors": [
+                    "堀江貴文"
+                ],
+                "publishedDate": "2011-07",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "4776206803"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9784776206804"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 222,
+                "printType": "BOOK",
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=h-VUXwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=h-VUXwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "ja",
+                "previewLink": "http://books.google.co.jp/books?id=h-VUXwAACAAJ&dq=%E3%83%9B%E3%83%AA%E3%82%A8%E3%83%A2%E3%83%B3&hl=&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.co.jp/books?id=h-VUXwAACAAJ&dq=%E3%83%9B%E3%83%AA%E3%82%A8%E3%83%A2%E3%83%B3&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/%E3%83%9B%E3%83%AA%E3%82%A8%E3%83%A2%E3%83%B3%E3%81%AE%E3%81%A8%E3%82%8A%E3%81%82%E3%81%88%E3%81%9A%E6%9C%80%E5%BE%8C.html?hl=&id=h-VUXwAACAAJ"
+            },
+            "saleInfo": {
+                "country": "JP",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "JP",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=h-VUXwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "tnSIDwAAQBAJ",
+            "etag": "LibVivUJC8k",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/tnSIDwAAQBAJ",
+            "volumeInfo": {
+                "title": "まんがでわかる　絶対成功！　ホリエモン式飲食店経営　～『サラリーマンは300万円で小さな会社を買いなさい』外伝～（１）",
+                "authors": [
+                    "堀江貴文",
+                    "三戸政和",
+                    "ＮＩＣＯＭＩＣＨＩＨＩＲＯ"
+                ],
+                "publisher": "講談社",
+                "publishedDate": "2019-02-22",
+                "description": "大ヒットのビジネス書を漫画化！ ６５歳で定年を迎えた妹尾は、夢だった喫茶店をオープンさせるが、客として来店した堀江美麻に「3ヵ月以内に潰れる」と告げられる。飲食店経営のことを何も知らないと痛感した妹尾は、美麻とともに店を立て直すことになった。だが、妹尾が知らないことがもう１つ。実は美麻は、堀江貴文の妹だったのだ！ ビジネス界の寵児が教える、飲食店経営の極意！",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "PKEY:BT000058510900100101900206"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "printType": "BOOK",
+                "categories": [
+                    "Comics & Graphic Novels"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "1.2.2.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": true,
+                    "containsImageBubbles": true,
+                    "epubBubbleVersion": "d6fc9e7ee5486bf1_A",
+                    "imageBubbleVersion": "d6fc9e7ee5486bf1_A"
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=tnSIDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=tnSIDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "ja",
+                "previewLink": "http://books.google.co.jp/books?id=tnSIDwAAQBAJ&printsec=frontcover&dq=%E3%83%9B%E3%83%AA%E3%82%A8%E3%83%A2%E3%83%B3&hl=&cd=2&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=tnSIDwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://market.android.com/details?id=book-tnSIDwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "JP",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 1080,
+                    "currencyCode": "JPY"
+                },
+                "retailPrice": {
+                    "amount": 1080,
+                    "currencyCode": "JPY"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=tnSIDwAAQBAJ&rdid=book-tnSIDwAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 1080000000,
+                            "currencyCode": "JPY"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 1080000000,
+                            "currencyCode": "JPY"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "JP",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.jp/books/download/%E3%81%BE%E3%82%93%E3%81%8C%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8B_%E7%B5%B6%E5%AF%BE%E6%88%90%E5%8A%9F_%E3%83%9B-sample-epub.acsm?id=tnSIDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.jp/books/download/%E3%81%BE%E3%82%93%E3%81%8C%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8B_%E7%B5%B6%E5%AF%BE%E6%88%90%E5%8A%9F_%E3%83%9B-sample-pdf.acsm?id=tnSIDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=tnSIDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "大ヒットのビジネス書を漫画化！ ６５歳で定年を迎えた妹尾は、夢だった喫茶店をオープンさせるが、客として来店した堀江美麻に「3ヵ月以内に潰れる」と告げられる。飲食店 ..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "jd1PDwAAQBAJ",
+            "etag": "m7BEFGffhIo",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/jd1PDwAAQBAJ",
+            "volumeInfo": {
+                "title": "属さない勇気～まんがでわかる「ウシジマくん×ホリエモン」生き方改革～",
+                "authors": [
+                    "堀江貴文",
+                    "真鍋昌平",
+                    "松本勇祐"
+                ],
+                "publisher": "小学館",
+                "publishedDate": "2018-03-17",
+                "description": "「働き方革命」で上場企業が時代遅れに！？ ホリエモン流の近未来的な働き方、生き方の意義を、忙しい現代人のためにマンガで超速解説！ 今回の主人公は、テレビ局で働く女性ＡＤ。憧れの仕事に就くも、同僚への嫉妬や上司のパワハラ、ブラックな職場環境など悩みは尽きない。 そんな中、ゾンビのような社畜サラリーマンにも、自分らしい生き方を取り戻してほしいと語る、謎のビジネスマンに出会う。 家や自動車だけでなく、家族も結婚も「ゼロ化」の対象という彼は、「働き方改革」など必要ないと言い放つ。 さらに、シェアリングエコノミーの進展によって、大変革が起きつつある中、彼の周囲で最先端の働き方を模索する人々の姿を目の当たりにする。自身の価値観や思考に疑問を持ち始めた女性は、勇気を持って行動し…。 前作『バカは最強の法則』に続き、本作も『闇金ウシジマくん』との最強コラボを実現。人気キャラが登場し、ブラック企業や貧困の実態を描く。 大ヒット「ウシジマくん×ホリエモン」シリーズは、「固定観念を覆す作品」としてメディアやSNSで大反響！ 「最強の実業家」と「最恐の経営者」の一挙手一投足が、忙しい現代人の心を再び揺さぶる。 フィックス型EPUB53.5MB（校正データ時の数値）。 【ご注意】※レイアウトの関係で、お使いの端末によっては読みづらい場合がございます。お手持ちの端末で立読みファイルをご確認いただくことをお勧めいたします。",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "PKEY:BT000045148900200201900209"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 176,
+                "printType": "BOOK",
+                "categories": [
+                    "Self-Help"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "1.4.3.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=jd1PDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=jd1PDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "ja",
+                "previewLink": "http://books.google.co.jp/books?id=jd1PDwAAQBAJ&printsec=frontcover&dq=%E3%83%9B%E3%83%AA%E3%82%A8%E3%83%A2%E3%83%B3&hl=&cd=3&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=jd1PDwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://market.android.com/details?id=book-jd1PDwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "JP",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 874,
+                    "currencyCode": "JPY"
+                },
+                "retailPrice": {
+                    "amount": 874,
+                    "currencyCode": "JPY"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=jd1PDwAAQBAJ&rdid=book-jd1PDwAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 874000000,
+                            "currencyCode": "JPY"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 874000000,
+                            "currencyCode": "JPY"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "JP",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.jp/books/download/%E5%B1%9E%E3%81%95%E3%81%AA%E3%81%84%E5%8B%87%E6%B0%97_%E3%81%BE%E3%82%93%E3%81%8C%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8B-sample-epub.acsm?id=jd1PDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.jp/books/download/%E5%B1%9E%E3%81%95%E3%81%AA%E3%81%84%E5%8B%87%E6%B0%97_%E3%81%BE%E3%82%93%E3%81%8C%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8B-sample-pdf.acsm?id=jd1PDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=jd1PDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "「働き方革命」で上場企業が時代遅れに！？ ホリエモン流の近未来的な働き方、生き方の意義を、忙しい現代人のためにマンガで超速解説！ ..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "IdgqDwAAQBAJ",
+            "etag": "kAVri06mQtE",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/IdgqDwAAQBAJ",
+            "volumeInfo": {
+                "title": "バカは最強の法則～まんがでわかる「ウシジマくん×ホリエモン」負けない働き方～",
+                "authors": [
+                    "堀江貴文",
+                    "真鍋昌平",
+                    "松本勇祐"
+                ],
+                "publisher": "小学館",
+                "publishedDate": "2017-07-31",
+                "description": "ホリエモン流の「成功メソッド」を、初めての全面まんが化！ 主人公は銀行に勤める新人ＯＬ。 一流大学を卒業し、有名企業に就職したものの、上司の考え方や組織のあり方に疑問を抱き、仕事や人生に悩み始める。 そこに現れた謎のビジネスマン！ 自由気ままに振る舞いながらも、やりたいことを貫き通し、「バカは最強」「ギブ＆ギブ」など、OLや同僚らの心を揺さぶる発言を連発する。 さらに、メガネのコワモテ男がOLの前に登場し、自分らしい働き方、生き方を身をもって示していく…。 「最強の実業家」と「最恐の経営者」の２人に触発されたＯＬは、意を決し、ついには…。 次々とベストセラー化するホリエモン流の成功メソッドを、コミカルなまんがで一番わかりやすく解説！ しかも大人気コミック『闇金ウシジマくん』と、奇跡の「最強コラボ」まで実現し、超パワーアップ！！ ビジネス、マネー、人間関係、ＳＮＳ、思考法など、誰もがすぐに実践できる具体的な「ホリエ流成功メソッド」が、まんがを読むだけで簡単に身につきます！ フィックス型EPUB55.9MB（校正データ時の数値）。 【ご注意】※レイアウトの関係で、お使いの端末によっては読みづらい場合がございます。お手持ちの端末で立読みファイルをご確認いただくことをお勧めいたします。",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "PKEY:BT000045148900100101900209"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 176,
+                "printType": "BOOK",
+                "categories": [
+                    "Self-Help"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "1.2.2.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=IdgqDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=IdgqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "ja",
+                "previewLink": "http://books.google.co.jp/books?id=IdgqDwAAQBAJ&printsec=frontcover&dq=%E3%83%9B%E3%83%AA%E3%82%A8%E3%83%A2%E3%83%B3&hl=&cd=4&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=IdgqDwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://market.android.com/details?id=book-IdgqDwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "JP",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 874,
+                    "currencyCode": "JPY"
+                },
+                "retailPrice": {
+                    "amount": 874,
+                    "currencyCode": "JPY"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=IdgqDwAAQBAJ&rdid=book-IdgqDwAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 874000000,
+                            "currencyCode": "JPY"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 874000000,
+                            "currencyCode": "JPY"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "JP",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.jp/books/download/%E3%83%90%E3%82%AB%E3%81%AF%E6%9C%80%E5%BC%B7%E3%81%AE%E6%B3%95%E5%89%87_%E3%81%BE%E3%82%93%E3%81%8C%E3%81%A7%E3%82%8F-sample-epub.acsm?id=IdgqDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.jp/books/download/%E3%83%90%E3%82%AB%E3%81%AF%E6%9C%80%E5%BC%B7%E3%81%AE%E6%B3%95%E5%89%87_%E3%81%BE%E3%82%93%E3%81%8C%E3%81%A7%E3%82%8F-sample-pdf.acsm?id=IdgqDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=IdgqDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "ホリエモン流の「成功メソッド」を、初めての全面まんが化！ 主人公は銀行に勤める新人ＯＬ。 ..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "KwMrDwAAQBAJ",
+            "etag": "wbibivGBctQ",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/KwMrDwAAQBAJ",
+            "volumeInfo": {
+                "title": "ウシジマくんｖｓ．ホリエモン　人生はカネじゃない！",
+                "authors": [
+                    "堀江貴文"
+                ],
+                "publisher": "小学館",
+                "publishedDate": "2016-09-06",
+                "description": "裏社会の最恐経営者ウシジマと、希代の実業家ホリエモンが大激突！ 「奪るか、奪られるか」――弱肉強食の現代社会を勝ち抜く知恵や工夫、実践的な方法を紹介し、「奪られる方」から「奪る方」になるための最短ルートを過激に提案！ 「世の中は奪い合いだ。奪るか奪られるかなら、奪る方を選ぶ！」 「目的地を決めるのは道路標識じゃねえ。ハンドルを握ってる運転手だ」 「全人生を賭けて勝負したんだろ？すげーじゃねえか。何もしてねぇー奴よりよっぽどマシだ」 「意志のない奴は悪い人間に利用されっぱなしだぞ？」 ウシジマら個性豊かな登場人物が、人生の岐路でふと漏らす言葉は、リアル社会にも通じるものばかり。作中の名言や名シーンから、「絶対の真理」を読み解き、カネ儲けやビジネス、人間関係、思考など、成功するためのメソッドを具体的に提言！最響の箴言付き！ ●小利口になるな、バカになれ。バカは最強！ ●真面目は危険。マインドセットにかかるな！ ●カネは紙切れ。手に入れるべきは信用！ ●権力者の威圧感に「グリップ」されるな！ ●デキない仲間との「絆」は大胆に切り捨てろ！ 真鍋昌平氏渾身の書き下ろし装画も要チェック！",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "PKEY:BT000045149000100101900209"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 256,
+                "printType": "BOOK",
+                "categories": [
+                    "Self-Help"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "1.2.3.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=KwMrDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=KwMrDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "ja",
+                "previewLink": "http://books.google.co.jp/books?id=KwMrDwAAQBAJ&printsec=frontcover&dq=%E3%83%9B%E3%83%AA%E3%82%A8%E3%83%A2%E3%83%B3&hl=&cd=5&source=gbs_api",
+                "infoLink": "http://books.google.co.jp/books?id=KwMrDwAAQBAJ&dq=%E3%83%9B%E3%83%AA%E3%82%A8%E3%83%A2%E3%83%B3&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/%E3%82%A6%E3%82%B7%E3%82%B8%E3%83%9E%E3%81%8F%E3%82%93%EF%BD%96%EF%BD%93_%E3%83%9B%E3%83%AA%E3%82%A8%E3%83%A2%E3%83%B3.html?hl=&id=KwMrDwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "JP",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "JP",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.jp/books/download/%E3%82%A6%E3%82%B7%E3%82%B8%E3%83%9E%E3%81%8F%E3%82%93%EF%BD%96%EF%BD%93_%E3%83%9B%E3%83%AA%E3%82%A8%E3%83%A2%E3%83%B3-sample-epub.acsm?id=KwMrDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.jp/books/download/%E3%82%A6%E3%82%B7%E3%82%B8%E3%83%9E%E3%81%8F%E3%82%93%EF%BD%96%EF%BD%93_%E3%83%9B%E3%83%AA%E3%82%A8%E3%83%A2%E3%83%B3-sample-pdf.acsm?id=KwMrDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=KwMrDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "裏社会の最恐経営者ウシジマと、希代の実業家ホリエモンが大激突！ 「奪るか、奪られるか」――弱肉強食の現代社会を勝ち抜く知恵や工夫、実践的な方法を紹介し、「奪られ ..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "X6olDwAAQBAJ",
+            "etag": "bWbida983BQ",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/X6olDwAAQBAJ",
+            "volumeInfo": {
+                "title": "ホリエモンの恋愛講座 “本物のお金持ち”と結婚するルール（大和出版）",
+                "authors": [
+                    "堀江貴文"
+                ],
+                "publisher": "PHP研究所",
+                "publishedDate": "2010-09-16",
+                "description": "稼ぐ男の本音、知りたくないですか？ 不愉快になるかもしれません。でも、これが玉の輿にのる一番の近道なのです。お金持ちと結婚したいあなたへ——本書では、そうなるための考え方から出会い方、相手を好きにさせる方法から、別れさせない方法まで、包み隠さず、すべてお教えします。「事実」を知ったあとで、あなたがどうするか。それこそがまさしく本書の狙いです——もちろん、お金持ちを狙い続けるのもいい。身分がどうでも自分が好きになれる男性に目をうつすのでもいい。本書は、あなたの凝り固まった恋愛観を打ちくずし、本当にステキな恋愛をしていただくことを願って書いた本です——「正直すぎる男が明かす！」 “誰も言えなかった真実”と“誰も教えなかったノウハウ”を初公開。 【PHP研究所】",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "PKEY:56900000210078120001"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 208,
+                "printType": "BOOK",
+                "categories": [
+                    "Family & Relationships"
+                ],
+                "maturityRating": "MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "1.1.2.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=X6olDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=X6olDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "ja",
+                "previewLink": "http://books.google.co.jp/books?id=X6olDwAAQBAJ&pg=PT6&dq=%E3%83%9B%E3%83%AA%E3%82%A8%E3%83%A2%E3%83%B3&hl=&cd=6&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=X6olDwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://market.android.com/details?id=book-X6olDwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "JP",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 1101,
+                    "currencyCode": "JPY"
+                },
+                "retailPrice": {
+                    "amount": 991,
+                    "currencyCode": "JPY"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=X6olDwAAQBAJ&rdid=book-X6olDwAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 1101000000,
+                            "currencyCode": "JPY"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 991000000,
+                            "currencyCode": "JPY"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "JP",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.jp/books/download/%E3%83%9B%E3%83%AA%E3%82%A8%E3%83%A2%E3%83%B3%E3%81%AE%E6%81%8B%E6%84%9B%E8%AC%9B%E5%BA%A7_%E6%9C%AC%E7%89%A9%E3%81%AE-sample-epub.acsm?id=X6olDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.jp/books/download/%E3%83%9B%E3%83%AA%E3%82%A8%E3%83%A2%E3%83%B3%E3%81%AE%E6%81%8B%E6%84%9B%E8%AC%9B%E5%BA%A7_%E6%9C%AC%E7%89%A9%E3%81%AE-sample-pdf.acsm?id=X6olDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=X6olDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "あなたが知らない世界を、数限りなく見てさました。その「あなたの知らない世界」は、<br>\nひょっとしたらあなたにとって、非常に不倫快なものかもしれません。あまりにも男側の<br>\n論理で、わがまま。そんなのは<b>ホリエモン</b>の理屈で、私が出会う予定の王子様は、全然<br>\n違う&nbsp;..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "XwGVSQAACAAJ",
+            "etag": "qSPcvLsa6b4",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/XwGVSQAACAAJ",
+            "volumeInfo": {
+                "title": "傷だらけ日本経済につけるクスリ",
+                "subtitle": "ホリエモン謹製",
+                "authors": [
+                    "堀江貴文"
+                ],
+                "publishedDate": "2010-06",
+                "description": "こんな日本に誰がした?一体何が悪いのか?日本を甦らせる新しいビジネスとは?天才ホリエモンが処方する「世直しのための18章」。",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "4861191572"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9784861191572"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 218,
+                "printType": "BOOK",
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=XwGVSQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=XwGVSQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "ja",
+                "previewLink": "http://books.google.co.jp/books?id=XwGVSQAACAAJ&dq=%E3%83%9B%E3%83%AA%E3%82%A8%E3%83%A2%E3%83%B3&hl=&cd=7&source=gbs_api",
+                "infoLink": "http://books.google.co.jp/books?id=XwGVSQAACAAJ&dq=%E3%83%9B%E3%83%AA%E3%82%A8%E3%83%A2%E3%83%B3&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/%E5%82%B7%E3%81%A0%E3%82%89%E3%81%91%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E3%81%AB%E3%81%A4%E3%81%91%E3%82%8B%E3%82%AF.html?hl=&id=XwGVSQAACAAJ"
+            },
+            "saleInfo": {
+                "country": "JP",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "JP",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=XwGVSQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "こんな日本に誰がした?一体何が悪いのか?日本を甦らせる新しいビジネスとは?天才ホリエモンが処方する「世直しのための18章」。"
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "-e_htwEACAAJ",
+            "etag": "CVfp32beiUs",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/-e_htwEACAAJ",
+            "volumeInfo": {
+                "title": "ホリエモンxひろゆき語りつくした本音の12時間「なんかヘンだよね...」",
+                "publishedDate": "2009",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "OCLC:1035883360"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 249,
+                "printType": "BOOK",
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "language": "ja",
+                "previewLink": "http://books.google.co.jp/books?id=-e_htwEACAAJ&dq=%E3%83%9B%E3%83%AA%E3%82%A8%E3%83%A2%E3%83%B3&hl=&cd=8&source=gbs_api",
+                "infoLink": "http://books.google.co.jp/books?id=-e_htwEACAAJ&dq=%E3%83%9B%E3%83%AA%E3%82%A8%E3%83%A2%E3%83%B3&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/%E3%83%9B%E3%83%AA%E3%82%A8%E3%83%A2%E3%83%B3x%E3%81%B2%E3%82%8D%E3%82%86%E3%81%8D%E8%AA%9E%E3%82%8A%E3%81%A4%E3%81%8F.html?hl=&id=-e_htwEACAAJ"
+            },
+            "saleInfo": {
+                "country": "JP",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "JP",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=-e_htwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "5fjrQgAACAAJ",
+            "etag": "MNI8zNEQrhA",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/5fjrQgAACAAJ",
+            "volumeInfo": {
+                "title": "ホリエモンが目覚めた“頭を使う”ゴルフ",
+                "subtitle": "10日で-10打も夢じゃない",
+                "authors": [
+                    "堀江貴文"
+                ],
+                "publishedDate": "2009-12-12",
+                "description": "手打ちはクセではない―。基本をわかっていないから、手を使わざるを得ないのだ。スコアアップへの近道は、クセを直すことではなく、正しくセットアップできるようになることだ。",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "4879340162"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9784879340160"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 188,
+                "printType": "BOOK",
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=5fjrQgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=5fjrQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "ja",
+                "previewLink": "http://books.google.co.jp/books?id=5fjrQgAACAAJ&dq=%E3%83%9B%E3%83%AA%E3%82%A8%E3%83%A2%E3%83%B3&hl=&cd=9&source=gbs_api",
+                "infoLink": "http://books.google.co.jp/books?id=5fjrQgAACAAJ&dq=%E3%83%9B%E3%83%AA%E3%82%A8%E3%83%A2%E3%83%B3&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/%E3%83%9B%E3%83%AA%E3%82%A8%E3%83%A2%E3%83%B3%E3%81%8C%E7%9B%AE%E8%A6%9A%E3%82%81%E3%81%9F_%E9%A0%AD%E3%82%92%E4%BD%BF.html?hl=&id=5fjrQgAACAAJ"
+            },
+            "saleInfo": {
+                "country": "JP",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "JP",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=5fjrQgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "手打ちはクセではない―。基本をわかっていないから、手を使わざるを得ないのだ。スコアアップへの近道は、クセを直すことではなく、正しくセットアップできるようになるこ ..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "XXgpNwAACAAJ",
+            "etag": "Z49a47xCres",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/XXgpNwAACAAJ",
+            "volumeInfo": {
+                "title": "間違いだらけのホリエモン嫌い",
+                "subtitle": "堀江貴文の発想「金と夢はこうしてつかめ」",
+                "authors": [
+                    "下里正樹",
+                    "ホリエモン人間研究会"
+                ],
+                "publishedDate": "2005-05",
+                "description": "この一冊でホリエモンの全てが分かる。",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "4901318330"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9784901318334"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 203,
+                "printType": "BOOK",
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=XXgpNwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=XXgpNwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "ja",
+                "previewLink": "http://books.google.co.jp/books?id=XXgpNwAACAAJ&dq=%E3%83%9B%E3%83%AA%E3%82%A8%E3%83%A2%E3%83%B3&hl=&cd=10&source=gbs_api",
+                "infoLink": "http://books.google.co.jp/books?id=XXgpNwAACAAJ&dq=%E3%83%9B%E3%83%AA%E3%82%A8%E3%83%A2%E3%83%B3&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/%E9%96%93%E9%81%95%E3%81%84%E3%81%A0%E3%82%89%E3%81%91%E3%81%AE%E3%83%9B%E3%83%AA%E3%82%A8%E3%83%A2%E3%83%B3%E5%AB%8C.html?hl=&id=XXgpNwAACAAJ"
+            },
+            "saleInfo": {
+                "country": "JP",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "JP",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=XXgpNwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "この一冊でホリエモンの全てが分かる。"
+            }
+        }
+    ]
+}
