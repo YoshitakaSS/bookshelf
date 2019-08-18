@@ -20,7 +20,7 @@
     function getSuggestKeywordInfo(keyword)
     {
         $.ajax({
-            url: `/top/book/suggest?k=${keyword}`,
+            url: `/book/suggest?k=${keyword}`,
             type: 'get',
             dataType: 'json',
             timeout: 5000,
