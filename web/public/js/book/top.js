@@ -47,7 +47,7 @@
         var list = document.querySelector('.suggest-list');
 
         // 既に生成されているのであれば削除
-        if (!!list) {
+        if (!!list || textField.value == '') {
             list.parentNode.removeChild(list);
         }
 
