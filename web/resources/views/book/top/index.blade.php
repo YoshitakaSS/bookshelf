@@ -30,7 +30,7 @@
     </div>
     <div class="container">
         <div class="select-box">
-            <form action="/top/list/sort" method="GET" name="sortlist">
+            <form action="/list/sort" method="GET" name="sortlist">
                 <select id="js-sort-select" name="sort">
                     @foreach (App\Config\TopListSort::getsortList() as $item)
                     <option

@@ -43,7 +43,7 @@ class BookController extends Controller
         $commentService = new CommentRegistService();
         $commentService->registCommentInfo($commentParam, $bookId);
 
-        return redirect('/top');
+        return redirect('/');
     }
 
     /**
